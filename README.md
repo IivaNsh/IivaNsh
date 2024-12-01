@@ -1,4 +1,4 @@
-## Welcome there ☕
+## Hi there, I am **shush**☕
 
 ![GitHub User's stars](https://img.shields.io/github/stars/IivaNsh)
 
