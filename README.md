@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my page
 
 ![GitHub User's stars](https://img.shields.io/github/stars/IivaNsh)
 
